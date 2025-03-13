@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,
@@ -35,11 +34,11 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
-=======
+    ],
+
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
->>>>>>> bc320da (i just commited smth idk what this is)
   }
+}
 }
