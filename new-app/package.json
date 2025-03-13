@@ -1,5 +1,5 @@
 {
-  "name": "my-react-app",
+  "name": "new-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,10 +34,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "dependencies": {
-      "react": "^19.0.0",
-      "react-dom": "^19.0.0"
-    }
+    ]
   }
 }
